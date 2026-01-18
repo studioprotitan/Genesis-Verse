@@ -1,3 +1,7 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/diesel-city/page": "app/diesel-city/page.js",
+  "/page": "app/page.js",
+  "/dev/page": "app/dev/page.js",
   "/portals/metahuman/page": "app/portals/metahuman/page.js"
 }
